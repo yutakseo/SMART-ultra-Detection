@@ -4,4 +4,6 @@ DATASETS/
 /DATASETS/*
 runs/*
 weights/*
+ultralytics/*
+*.pt
 requirements.txt
