@@ -1,0 +1,7 @@
+dataset/
+DATASETS/
+/datasets/*
+/DATASETS/*
+runs/*
+weights/*
+requirements.txt
